@@ -1,0 +1,13 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/avaliar",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/avaliar/",
+      "destination": "/index.html"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+MG Multas — versão pronta para Vercel
+
+Arquivos:
+- index.html
+- vercel.json
+
+Como publicar no Vercel:
+1. Descompacte este ZIP.
+2. Suba a PASTA mg-multas-vercel como projeto.
+3. Não escolha framework.
+4. Framework Preset: Other.
+5. Build Command: deixe vazio.
+6. Output Directory: deixe vazio.
+7. Faça o deploy.
+
+A página deverá abrir em:
+- https://SEU-PROJETO.vercel.app/
+- https://SEU-PROJETO.vercel.app/avaliar
+
+Depois, quando apontar seu domínio, poderá usar:
+- https://mgmultas.com.br/avaliar
